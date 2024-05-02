@@ -1,12 +1,10 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### I'm Siwei Zhou
+### I'm Moon
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
+- A Software Engineering II
+- 🌱 Currently working in Earth.
+- 💬 Ask me about Q&A [manggo2022@163.com](mailto:manggo2022@163.com)
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -14,11 +12,8 @@
 ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=Java&logoColor=007396)
 ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=Java&logoColor=007396)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS)
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
